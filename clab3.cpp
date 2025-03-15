@@ -2,7 +2,6 @@
 #include <set>
 #include <string>
 #include <windows.h>
-#include <stack>
 using namespace std;
 
 // Структура узла дерева
